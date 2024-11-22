@@ -1,6 +1,6 @@
 name: Hello Flow
 on:
-  schedule:
+ schedule:
   - cron: '*/5 * * * *'
 jobs:
   first-job:
